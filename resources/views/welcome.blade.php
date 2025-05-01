@@ -19,6 +19,7 @@
                         <h1 class="display-4 fw-bold mb-4">Laravel CD Demo</h1>
                         <p class="lead mb-4">Ini adalah demo Continuous Deployment menggunakan GitHub Action Workflow
                         </p>
+                        <p>halo ini adalah percobaan CD saya horeeeeeeeeeeeeeeeeeeeeeeee</p>
                     </div>
                 </div>
             </div>
