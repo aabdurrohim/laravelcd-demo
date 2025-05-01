@@ -20,6 +20,9 @@
                         <p class="lead mb-4">Ini adalah demo Continuous Deployment menggunakan GitHub Action Workflow
                         </p>
                         <p>halo ini adalah percobaan CD saya horeeeeeeeeeeeeeeeeeeeeeeee</p>
+                        <iframe src="https://assets.pinterest.com/ext/embed.html?id=121034308730084938" height="429"
+                            width="600" frameborder="0" scrolling="no"></iframe>
+
                     </div>
                 </div>
             </div>
