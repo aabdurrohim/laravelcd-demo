@@ -19,7 +19,6 @@
                         <h1 class="display-4 fw-bold mb-4">Laravel CD Demo</h1>
                         <p class="lead mb-4">Ini adalah demo Continuous Deployment menggunakan GitHub Action Workflow
                         </p>
-                        <p>halo ini adalah percobaan CD saya horeeeeeeeeeeeeeeeeeeeeeeee</p>
                         <iframe src="https://i.pinimg.com/736x/78/43/ee/7843eea874b2b65c10b1032ee37330a8.jpg"
                             height="429" width="600" frameborder="0" scrolling="no"></iframe>
 

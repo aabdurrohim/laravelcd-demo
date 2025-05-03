@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Call Webhook URL
         run: |
-          curl -X GET "http://panel.4be.my.id/hook?access_key=ohWY0aNYkLMSmmMEJ1Q2dRDNFf9hZWD0nLT3fucvjSBifxbW"
+          curl -X GET "http://panel.4be.my.id/hook?access_key=DEAB6bgVKNCeYPwjkqu01ipYynvp5WOM3ud4kDCMtwoDHke2"
